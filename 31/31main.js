@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let userNames = [];
+let userNames = ["Jeff"];
 //if lenght is 0 means array is empty
 if (userNames.length == 0) {
     console.log("We need to find some users!");
