@@ -4,6 +4,7 @@ let guestList2 = [
 
 guestList2.forEach(guest => console.log(`Dear ${guest}, you have been invited to a dinner at Ghalib at
 7pm, tomorrow.`))
+// above from 14 
 
 console.log(" ") //spacing
 console.log(`Dear Guests, I have just been informed that, 'Jeff Bezos' will not be attending the dinner tomorrow night,
@@ -16,6 +17,7 @@ guestList2 = [
 
 guestList2.forEach(guest => console.log(`Dear ${guest}, you have been invited to a dinner at Ghalib at
 7pm, tomorrow.`))
+// above from 15
 
 console.log(" ") //spacing
 console.log(`Dear Guests, good news! A bigger table has been found hence,

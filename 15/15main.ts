@@ -4,6 +4,7 @@ let guestList2 = [
 
 guestList2.forEach(guest => console.log(`Dear ${guest}, you have been invited to a dinner at my residence at
 7pm, tomorrow.`))
+// above from 14
 
 console.log(" ") //spacing
 
